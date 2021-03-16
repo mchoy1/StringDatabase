@@ -22,4 +22,4 @@ The pipeline should have a flag for human or mouse proteins
 Proposed solution:
 
 
-[Flowchart Overview](overview_flowchart.png)
+![Flowchart Overview](overview_flowchart.png)
