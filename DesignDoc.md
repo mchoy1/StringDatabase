@@ -19,7 +19,9 @@ The pipeline should have a flag for human or mouse proteins
 ### Non-Goals ### 
   We met with Dr. Kekenes-Huskey and discussed that we will only change the tab delimited files to csv only to the files we are working on and not his whole pipeline. 
   
-Proposed solution:
+### Proposed solution ###
 
 
-![Flowchart Overview](overview_flowchart.png)
+
+### Milestone ###
+
